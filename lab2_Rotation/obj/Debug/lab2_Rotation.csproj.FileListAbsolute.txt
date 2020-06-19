@@ -1,0 +1,17 @@
+C:\Users\kvaso\OneDrive\Рабочий стол\study\3 курс\ОАП\labNXOpen\lab2_Rotation\bin\Debug\lab2_Rotation.exe.config
+C:\Users\kvaso\OneDrive\Рабочий стол\study\3 курс\ОАП\labNXOpen\lab2_Rotation\bin\Debug\lab2_Rotation.exe
+C:\Users\kvaso\OneDrive\Рабочий стол\study\3 курс\ОАП\labNXOpen\lab2_Rotation\bin\Debug\lab2_Rotation.pdb
+C:\Users\kvaso\OneDrive\Рабочий стол\study\3 курс\ОАП\labNXOpen\lab2_Rotation\bin\Debug\NXOpen.dll
+C:\Users\kvaso\OneDrive\Рабочий стол\study\3 курс\ОАП\labNXOpen\lab2_Rotation\bin\Debug\NXOpen.UF.dll
+C:\Users\kvaso\OneDrive\Рабочий стол\study\3 курс\ОАП\labNXOpen\lab2_Rotation\bin\Debug\NXOpen.Utilities.dll
+C:\Users\kvaso\OneDrive\Рабочий стол\study\3 курс\ОАП\labNXOpen\lab2_Rotation\bin\Debug\NXOpenUI.dll
+C:\Users\kvaso\OneDrive\Рабочий стол\study\3 курс\ОАП\labNXOpen\lab2_Rotation\bin\Debug\NXOpen.xml
+C:\Users\kvaso\OneDrive\Рабочий стол\study\3 курс\ОАП\labNXOpen\lab2_Rotation\bin\Debug\NXOpen.Utilities.xml
+C:\Users\kvaso\OneDrive\Рабочий стол\study\3 курс\ОАП\labNXOpen\lab2_Rotation\bin\Debug\NXOpenUI.xml
+C:\Users\kvaso\OneDrive\Рабочий стол\study\3 курс\ОАП\labNXOpen\lab2_Rotation\obj\Debug\lab2_Rotation.csprojAssemblyReference.cache
+C:\Users\kvaso\OneDrive\Рабочий стол\study\3 курс\ОАП\labNXOpen\lab2_Rotation\obj\Debug\lab2_Rotation.Properties.Resources.resources
+C:\Users\kvaso\OneDrive\Рабочий стол\study\3 курс\ОАП\labNXOpen\lab2_Rotation\obj\Debug\lab2_Rotation.csproj.GenerateResource.cache
+C:\Users\kvaso\OneDrive\Рабочий стол\study\3 курс\ОАП\labNXOpen\lab2_Rotation\obj\Debug\lab2_Rotation.csproj.CoreCompileInputs.cache
+C:\Users\kvaso\OneDrive\Рабочий стол\study\3 курс\ОАП\labNXOpen\lab2_Rotation\obj\Debug\lab2_Rotation.csproj.CopyComplete
+C:\Users\kvaso\OneDrive\Рабочий стол\study\3 курс\ОАП\labNXOpen\lab2_Rotation\obj\Debug\lab2_Rotation.exe
+C:\Users\kvaso\OneDrive\Рабочий стол\study\3 курс\ОАП\labNXOpen\lab2_Rotation\obj\Debug\lab2_Rotation.pdb
